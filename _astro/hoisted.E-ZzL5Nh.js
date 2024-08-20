@@ -1,0 +1,1 @@
+import{g as e,S as o}from"./ScrollTrigger.aLfjG8Xb.js";import{S as t}from"./ScrollSmoother.BJA5S7b-.js";e.registerPlugin(o,t);const r=t.create({content:"#content",smooth:3,effects:!0});r.effects("img",{speed:"auto"});
